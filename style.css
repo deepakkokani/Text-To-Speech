@@ -1,0 +1,39 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+}
+
+.container
+{
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+img
+{
+    height: 40px;
+    width: 60px;
+}
+
+.text-to-speech textarea 
+{
+    font-family: "Poppins", sans-serif;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px grey;
+    
+}
+
+
+.text-to-speech button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    background-color: green;
+    transition: .3s ease all;    
+} 
+
